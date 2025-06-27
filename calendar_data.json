@@ -1,0 +1,65 @@
+[
+  {
+    "subject": "English in the Workplace",
+    "day": "Monday",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "room": "JFH304"
+  },
+  {
+    "subject": "Computer Vision and Image Processing Laboratory",
+    "day": "Monday",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "room": "ICT201/203"
+  },
+  {
+    "subject": "Emphatic Computing Lecture",
+    "day": "Tuesday",
+    "start_time": "8:00",
+    "end_time": "10:00",
+    "room": "JFH201"
+  },
+  {
+    "subject": "Automata Theory and Formal Languages",
+    "day": "Tuesday",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "room": "JFH303"
+  },
+  {
+    "subject": "Thesis 1",
+    "day": "Wednesday",
+    "start_time": "10:00",
+    "end_time": "12:30",
+    "room": "COS110"
+  },
+  {
+    "subject": "Computer Vision and Image Processing Lecture",
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "16:00",
+    "room": "COS110"
+  },
+  {
+    "subject": "Kursong Rizal",
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "17:30",
+    "room": "COS110"
+  },
+  {
+    "subject": "Emphatic Computing Laboratory",
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "room": "ICT201/203"
+  },
+  {
+    "subject": "Social Issues and Professional Practice",
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "room": "COS109"
+  }
+]
